@@ -16,5 +16,6 @@ public class AnimalHandbook {
             }
         }
         System.out.println("All registered animal names: " + animals);
+        System.out.println("Done");
     }
 }
